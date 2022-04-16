@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'setup/windows',
+            docId: 'setup/index',
             position: 'left',
             label: 'Getting Started',
           },
@@ -76,7 +76,7 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/setup/windows',
+                to: '/docs/setup',
               },
             ],
           },
