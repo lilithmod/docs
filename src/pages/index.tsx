@@ -16,7 +16,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Lilith%20Setup/WindowsSetup">
+            to="/docs/setup/windows">
             Getting Started
           </Link>
         </div>
