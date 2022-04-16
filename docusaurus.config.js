@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Lilith Setup/WindowsSetup',
             position: 'left',
             label: 'Getting Started',
           },
@@ -76,7 +76,7 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/intro',
+                to: '/docs/Lilith Setup/WindowsSetup',
               },
             ],
           },
