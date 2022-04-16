@@ -1,17 +1,23 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+ghqst:
+  name: Ghqst
+  title: Lilith Developer
+  url: https://ayo.so/nea
+  image_url: https://github.com/GhqstMC.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+firestorm:
+  name: FireStorm
+  title: Lilith Admin
+  url: https://github.com/Ethan-Francolla
+  image_url: https://github.com/Ethan-Francolla.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+salmon:
+  name: Scherso
+  title: Junior Developer
+  url: https://github.com/Scherso
+  image_url: https://github.com/Scherso.png
+
+cero:
+  name: Cero
+  title: Junior Developer
+  url: https://github.com/0x41c
+  image_url: https://github.com/0x41c
