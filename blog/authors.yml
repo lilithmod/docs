@@ -12,30 +12,30 @@ firestorm:
 
 salmon:
   name: Scherso
-  title: Junior Developer
+  title: Intern
   url: https://github.com/Scherso
   image_url: https://github.com/Scherso.png
 
 cero:
   name: Cero
-  title: Junior Developer
+  title: Intern
   url: https://github.com/0x41c
   image_url: https://github.com/0x41c
 
 lucy:
   name: Lucy
-  title: Junior Developer
+  title: Moderator
   url: https://github.com/Lucyoocy
   image_url: https://github.com/Lucyoocy.png
 
 olli:
   name: Olli
-  title: Junior Developer
+  title: Intern
   url: https://github.com/olli-exe
   image_url: https://github.com/olli-exe.png
 
 Wyvest:
   name: Wyvest
-  title: Junior Developer
+  title: Intern
   url: https://github.com/Wyvest
   image_url: https://github.com/Wyvest.png

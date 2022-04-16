@@ -1,5 +1,5 @@
 ---
-slug: FirstBlog
+slug: future
 title: The Future of Lilith
 authors:
   - name: FireStorm
@@ -21,7 +21,7 @@ My end goal for Lilith 1.0 is to get it user friendly enough to where we can rem
 - Replacing the the dreaded TOML file you all hate with a beautiful web GUI
 - Removal of support for Mojang Accounts
 - Lunar Spoof
-- Fully customizable autotodge and party support(likely a premium/booster only feature)
+- Fully customizable autododge and party support(likely a premium/booster only feature)
 - Migration for the Lilith core away from Node-Minecraft-Protocol to MCProto
 - Revamped, in-game authentication system
 - More cool stuff I can't tell you
