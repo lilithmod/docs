@@ -19,7 +19,7 @@ My end goal for Lilith 1.0 is to get it user-friendly enough to where we can rem
 because we won't need to screen applicants for competency. You can just download a launcher, 
 and it will do all the work for you! To give you all an overview of what the initial 1.0 release will look like, 
 here's a list in no particular order of what we are planning.
-- Open-sourcing more parts of Lilith (the "exploity" stuff will still probably stay closed for obvious reasons).
+- Open-sourcing more parts of Lilith (the "exploity" stuff will still probably stay closed for obvious reasons)
 - Official lilith Launcher with an auto-updater 
 - Replacing the dreaded TOML file you all hate with a beautiful web GUI
 - Removal of support for Mojang Accounts
