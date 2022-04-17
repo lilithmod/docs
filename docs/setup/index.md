@@ -1,5 +1,5 @@
-<!--- This is all pretty much just place holder text for someone to come in and make it actually neat, clean and concise --->
-<!--- Feel free to start a PR changing this stuff because its nowehere near done. Could defenitl use some pictures too --->
+<!--- This is all pretty much just placeholder text for someone to come in and make it actually neat, clean and concise --->
+<!--- Feel free to start a PR changing this stuff because It's nowhere near done. Could definitely use some pictures too --->
 
 <h1 align="center">
 
@@ -11,7 +11,7 @@
 
 <h1 align="center">
 
-  **[Lilith for MacOS](macos.md)**
+  **[Lilith for macOS](macos.md)**
 
 </h1>
 

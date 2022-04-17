@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: MacOS
 title: MacOS Setup
 ---
-<!--- Conttributors: --->
+<!--- Contributors: --->
 <!--- Sam (https://github.com/Scherso) for creating the majority of this beautiful guide --->
 <!--- FireStorm (FireStorm#1000) for minor formatting adjustments and changes --->
 <!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
@@ -32,7 +32,7 @@ Note before running any commands, all files should stay in your `~/Downloads` di
 
 ## Second, Grant [Read and Execute][chmod] Permission to Lilith 
 
-- Copy the script (below) to your clipboard, upon doing this go back to the Terminal wnidow you have just opened and paste the command, upon pasting the command in terminal press "enter" or "return" on your keyboard. 
+- Copy the script (below) to your clipboard, upon doing this go back to the Terminal window you have just opened and paste the command, upon pasting the command in terminal press "enter" or "return" on your keyboard. 
 
 ```bash
 #!/bin/bash
@@ -64,7 +64,7 @@ open -a "TextEdit" ~/Desktop/Lilith/lilith-0-6-0.toml
 
   1. **You will see** `ExampleMicrosoftAccount = ['microsoft.account.email@example.com', '', 'microsoft']`
   2. **Replace** `ExampleMicrosoftAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
-  3. **Replace** `microsoft.account.email@example.com` **with your email address accociated with your Microsoft Account.**
+  3. **Replace** `microsoft.account.email@example.com` **with your email address associated with your Microsoft Account.**
   
      **Note: do NOT replace** `microsoft` **or the blank field** `''` **with any other text.**
   
@@ -76,7 +76,7 @@ open -a "TextEdit" ~/Desktop/Lilith/lilith-0-6-0.toml
 
   1. **You will see** `ExampleMojangAccount = ['mojang.account.email@example.com', 'password goes here!']`
   2. **Replace** `ExampleMojangAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
-  3. **Replace** `mojang.account.email@example.com` **with your email address accociated with your Mojang Account.**
+  3. **Replace** `mojang.account.email@example.com` **with your email address associated with your Mojang Account.**
   4. **Replace** `password goes here!` **with the password you use to log into your Mojang Account.**
   
 </details>
@@ -85,7 +85,9 @@ open -a "TextEdit" ~/Desktop/Lilith/lilith-0-6-0.toml
 
 ## Executing Lilith 
 
-Once you have completed all the steps above, copy the command below to your clipboard, upon copying this command go to your Terminal window, paste this command into the the text box, and then press "Enter" or "Return" on your keyboard. 
+Once you have completed all the steps above, copy the command below to your clipboard, 
+upon copying this command go to your Terminal window, paste this command into the text box, 
+and then press "Enter" or "Return" on your keyboard. 
 
 ```bash
 cd ~/Desktop/Lilith && ./lilith-macos-0-6-0-alpha-3
