@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'setup/Index',
+            docId: 'setup/index',
             position: 'left',
             label: 'Getting Started',
           },

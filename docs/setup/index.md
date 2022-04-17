@@ -3,7 +3,7 @@
 
 <h1 align="center">
 
-  **[Lilith for Windows][LilithWindowsGuide]**
+  **[Lilith for Windows](windows.md)**
 
 </h1>
 
@@ -11,7 +11,7 @@
 
 <h1 align="center">
 
-  **[Lilith for MacOS][LilithMacGuide]**
+  **[Lilith for MacOS](macos.md)**
 
 </h1>
 
@@ -19,10 +19,6 @@
 
 <h1 align="center">
 
-  **[Lilith for Linux][LilithLinuxGuide]**
+  **[Lilith for Linux](linux.md)**
 
 </h1>
-
-[LilithWindowsGuide]: https://lilithmod.xyz/docs/setup/Windows
-[LilithMacGuide]: https://lilithmod.xyz/docs/setup/MacOS
-[LilithLinuxGuide]: https://lilithmod.xyz/docs/setup/Linux

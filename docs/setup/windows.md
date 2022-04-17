@@ -1,23 +1,17 @@
 ---
 sidebar_position: 1
 sidebar_label: Windows
+title: Windows Setup
 ---
 
-<!--- Conttributors: --->
+<!--- Contributors: --->
 <!--- Salmon (https://github.com/Scherso) for a formatting template --->
 <!--- FireStorm (FireStorm#1000) for writing the majority of the instructions--->
 <!--- Lucy (Lucyyy#9979) for fixing formatting and grammar--->
 <!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
 
-<!--- Title --->
-<h1 align="center">
-
-  **[Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Windows**
-
-</h1>
-
 <!--- Authors --->
-<h4 align="center">
+<h4>
 
   Written by FireStorm, Salmon, and Lucy
 
@@ -26,7 +20,7 @@ sidebar_label: Windows
 ---
 
 ## Install Lilith in the proper location
-- You can download Lilith for windows [Here][LilithDownload] if you haven't already. You can idenitfy it via the green icon next to its name.
+- You can download Lilith for windows [here][LilithDownload] if you haven't already. You can identify it via the green icon next to its name.
 - Go to your desktop and right click on an empty space and create a new folder called Lilith.
 - Drag and drop the executable file you just downloaded into that folder you created. 
 - Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
@@ -34,7 +28,7 @@ sidebar_label: Windows
 <br />
 
 ## Linking Lilith to Your Discord
-- Go into your Lilith folder and double click on the exectuable to run it. A new black window should pop up on your screen.
+- Go into your Lilith folder and double click on the executable to run it. A new black window should pop up on your screen.
 - Inside this window, there will be a blue link. Please copy and paste that link into a browser of your choice and hit enter. Follow the instructions in your browser to properly link your discord. Do not close Lilith while you are doing this.
 - Note: You may be asked to give Lilith access to your username and avatar. Just click yes, this is simply to link your discord account with Lilith. 
 - When you are finished, there should be a green box that says "Hardware Verified". Just be patient and wait a few seconds for Lilith to download all of the necessary files into your Lilith folder. When it is finished, red text will pop up in the console.

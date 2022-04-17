@@ -1,25 +1,20 @@
 ---
 sidebar_position: 2
 sidebar_label: MacOS
+title: MacOS Setup
 ---
 <!--- Conttributors: --->
 <!--- Sam (https://github.com/Scherso) for creating the majority of this beautiful guide --->
 <!--- FireStorm (FireStorm#1000) for minor formatting adjustments and changes --->
 <!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
 
-<h1 align="center">
-
-[Lilith](https://github.com/GhqstMC/LilithReleases) Setup for MacOS  
-
-</h1>
-
-<h3 align="center">
+<h3>
 
 Written by Salmon 
 
 </h3>
 
-<h4 align="center">
+<h4>
 
 Note before running any commands, all files should stay in your `~/Downloads` directory, this should be done automatically upon downloading. 
 
@@ -29,7 +24,7 @@ Note before running any commands, all files should stay in your `~/Downloads` di
            
 ## First, Opening a Terminal window.
 
-- Download Lilith [Here][lilithdownload] if you haven't already.
+- Download Lilith [here][lilithdownload] if you haven't already.
 - Upon downloading lilith, open a new terminal window, you can do this by pressing `Command + Space` on your keyboard and typing: Terminal
 - Note: You can make sure you're in your home directory by running `cd ~/`
 

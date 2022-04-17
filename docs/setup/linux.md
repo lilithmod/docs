@@ -1,18 +1,13 @@
 ---
 sidebar_position: 3
 sidebar_label: Linux
+title: Linux Setup
 ---
-
-<h1 align="center">
-
-  **[Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Linux**
-
-</h1>
 
 ---
 
 ## Install Lilith in the proper location
-- You can download Lilith for windows [Here][LilithDownload] if you haven't already.
+- You can download Lilith for windows [here][LilithDownload] if you haven't already.
 - Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod + x` on the executable. If you have further questions, please contact a staff member.
 
 
