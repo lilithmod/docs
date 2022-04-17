@@ -290,7 +290,8 @@ Server boosters will also receive 1 month of premium for each month they boost t
   <summary>
     Java.net Connection Exception In Game</summary>
 
-  - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. Please launch Lilith and keep it running while you are connected to localhost.
+  - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. 
+Please launch Lilith and keep it running while you are connected to localhost.
 
 </details>
 
@@ -299,7 +300,9 @@ Server boosters will also receive 1 month of premium for each month they boost t
   <summary>
     End, SocketClosed</summary>
 
-  - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
+  - You have not added your details to your TOML file, or if you have, they were added improperly. 
+Please see the examples above in the `Inserting Your Credentials` section of this guide 
+to ensure you entered your details properly.
   - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly. 
 
 </details>
@@ -309,7 +312,9 @@ Server boosters will also receive 1 month of premium for each month they boost t
   <summary>
     Bad Atom Value at line ___</summary>
 
-  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
+  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section 
+in the guide and Lilith is rejecting the improper formatting. 
+Please see the examples above to ensure it is formatted correctly.
   - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
 </details>
@@ -319,7 +324,9 @@ Server boosters will also receive 1 month of premium for each month they boost t
   <summary>
     Unexpected token in JSON at position ___</summary>
 
-  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
+  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section 
+in the guide and Lilith is rejecting the improper formatting. 
+Please see the examples above to ensure it is formatted correctly.
   Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
 </details>
@@ -329,11 +336,15 @@ Server boosters will also receive 1 month of premium for each month they boost t
   <summary>
     Lilith Is Logging In to the Wrong Account</summary>
 
-  - When you were authenticating either a main or an alt with Microsoft you accidentally signed in with a Microsoft account that was not associated with the ign you were trying to log in with.
+  - When you were authenticating either a main or an alt with Microsoft you accidentally signed in 
+with a Microsoft account that was not associated with the ign you were trying to log in with.
   1. Close Lilith and Minecraft
-  2. Navigate to your `.Minecraft` folder by typing `%Appdata%` into the searchbar at the bottom of your screen and then finding `.Minecraft`.
-  3. Find the JSON cache files that start with a bunch of random characters and delete them. There should be 3 of these per account you use.
-  4. Relaunch both Lilith and Minecraft and reauthenticate with Microsoft on each account. Remember to authenticate each ign with the **proper** Microsoft account associated with it. You may have to click `sign in with a different Microsoft account` to do so.
+  2. Navigate to your `.Minecraft` folder by typing `%Appdata%` into the searchbar 
+at the bottom of your screen and then finding `.Minecraft`.
+  3. Find the JSON cache files that start with a bunch of random characters and delete them. 
+There should be 3 of these per account you use.
+  4. Relaunch both Lilith and Minecraft and reauthenticate with Microsoft on each account. 
+Remember to authenticate each ign with the **proper** Microsoft account associated with it. You may have to click `sign in with a different Microsoft account` to do so.
 
 </details>
 
