@@ -9,6 +9,8 @@ sidebar_label: Linux
 
 </h1>
 
+---
+
 ## Install Lilith in the proper location
 - You can download Lilith for windows [Here][LilithDownload] if you haven't already.
 - Lilith is a command line executable which you should put in its own folder such as `~/lilith`. Remember to run `chmod + x` on the executable. If you have further questions, please contact a staff member.
