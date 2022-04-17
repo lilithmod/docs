@@ -52,10 +52,11 @@ sidebar_label: Windows
 <details>
   <summary>
     Bypasses for Lunar</summary>
-  
-  #### Enabling Lunar Bypasses
+
   - To renable freelook and autotexthotkey on Lunar Client for Hypixel set `lunar = false` to `lunar = true`
+
   - To enable 1.7 hits for better hit regeistration on Lunar Client set `LunarHitReg = false` to `LunarHitReg = true`
+
   - To enable Lunar Client staff mods like an X-ray module built into Lunar set `LunarCheats = false` to `LunarCheats = true`
   
 </details>
@@ -64,8 +65,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Bypasses for Forge</summary>
-  
-  #### Enabling Forge Bypasses
+
   - To hide your forge mods list from Hypixel keep `forge = true`. This makes hypixel think that you are connecting through vanilla minecraft, which makes mods like freelook undetectable so you can use them as you please.
 
 </details>
@@ -74,8 +74,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Bypasses for Badlion</summary>
-  
-  #### Enabling Forge Bypasses
+
   - To enable all disabled mods on Badlion on Hypixel set `Badlion = false` to `Badlion = true`.
 
 </details>
@@ -84,9 +83,9 @@ sidebar_label: Windows
 <details>
   <summary>
     Queuestats Customizations</summary>
-  
-  #### Customizing Lilith Stat-checking
+
   - The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game, Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
+
   - If you would like to see your own stats as well as your opponent's set `ShowOwnStats = false` to `ShowownStats = true`. Although, please note that this does not work for everyone all the time.
 
 </details>
@@ -101,8 +100,7 @@ sidebar_label: Windows
 <details>
   <summary>
        For Microsoft Accounts</summary>
-     
-  #### Microsoft Authentication 
+
   1. **You will see** `ExampleMicrosoftAccount = ['microsoft.account.email@example.com', '', 'microsoft']`
   2. **Replace** `ExampleMicrosoftAccount` with your Minecraft Account Username, also known as your In Game Name. 
   3. **Replace** `microsoft.account.email@example.com` with your email address accociated with your Microsoft Account.
@@ -115,8 +113,7 @@ sidebar_label: Windows
 <details>
   <summary>
        For Mojang Accounts</summary>
-     
-  #### Mojang Authentication 
+
   1. You will see `ExampleMojangAccount = ['mojang.account.email@example.com', 'password goes here!']`
   2. **Replace** `ExampleMojangAccount` with your Minecraft Account Username, also known as your In Game Name.
   3. **Replace** `mojang.account.email@example.com` with your email address accociated with your Mojang Account.
@@ -159,7 +156,7 @@ sidebar_label: Windows
   <summary>
     Enable Hypixel Mods</summary>
   
-  #### Enabling Hypixel Mods
+
   1. Ensure Lilith, Lunar, and all files relating to Minecraft are closed. Also ensure the Lunar Enable bypasses are off. You can do this by settings `lunar = true` to `lunar = false` in your config, if it isn't already `false`. 
   Note: If you need to use Lunar Enable we reccomend using [Lunar Client QT][LunarClientQT], an open source custom launcher for Lunar. It lets you add custom mods to Lunar called agents that are similar to forge mods in nature. Please note most forge mods won't work with it, as the only agents that will work with it are specially written ones made in [Java Byte Code][JavaByteCode]. Popular agents include an unlocker for Lunar+, every emote, and every cosmetic, similar Lunar bypasses to the ones Lilith offers, and a customizable hurtcamera.
   2. Find the search icon/bar at the bottom of your screen and type Notepad into the searchbar; you should see the Notepad app pop up as an option. DO NOT open it yet.
@@ -177,8 +174,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Add Alts</summary>
-  
-  #### Adding Alts to Lilith
+
   **Note: Lilith WILL NOT support Mojang accounts in 1.0**
   1. Ensure Lilith and Lunar are closed.
   2. Navigate to the TOML file in your Lilith folder where you previously entered the details of your main minecraft account. Scroll down to the `[server.authentication]` portion of your TOML file. You should see the place where you entered you main's details. You are going to enter your alt's details following the exeact same formatting you used for your main.
@@ -199,8 +195,7 @@ sidebar_label: Windows
 <details>
   <summary>
     How to Get Premium</summary>
-  
-  #### Obtaining a Premium License
+
   - If you would like to purcahse premium please DM an admin or developer. You can contact us via the [Lilith Discord Server][LilithDiscord]. Licenses are $10 for lifetime access to all Lilith premium updates and features. Server boosters will also receive 1 month of premium for each month they boost the server.
 
 </details>
@@ -209,14 +204,10 @@ sidebar_label: Windows
 <details>
   <summary>
     Custom Queuestats</summary>
-  
-  #### Making One-line Stats
+
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
 
   <br/>
-
-  #### Custom Color Coding
-  Note: This feature has been temporarily **DISABLED** until 1.0 releases.
 
 </details>
 
@@ -224,8 +215,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Autododge</summary>
-  
-  #### Customizing Autododge
+
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
 
 </details>
@@ -239,8 +229,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Java.net connection excpetion In Game</summary>
-  
-  #### Lilith Isn't Running
+
   - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. Please launch Lilith and keep it running while you are connected to localhost.
 
 </details>
@@ -249,8 +238,7 @@ sidebar_label: Windows
 <details>
   <summary>
     End, SocketClosed</summary>
-  
-  #### Details Not In TOML File
+
   - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
   - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly. 
 
@@ -260,8 +248,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Bad Atom Value at line ___</summary>
-  
-  #### Bad TOML formatting
+
   - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
   - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
@@ -271,8 +258,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Unexpected token in JSON at position ___</summary>
-  
-  #### Bad TOML formatting
+
   - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
   Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
@@ -282,8 +268,7 @@ sidebar_label: Windows
 <details>
   <summary>
     Lilith Is Logging In to the Wrong Account</summary>
-  
-  #### Wrong Account Authentication Fix
+
   - When you were authenticating either a main or an alt with Microsoft you accidentally signed in with a Microsoft account that was not associated with the ign you were trying to log in with.
   1. Close Lilith and Minecraft
   2. Navigate to your `.Minecraft` folder by typing `%Appdata%` into the searchbar at the bottom of your screen and then finding `.Minecraft`.
