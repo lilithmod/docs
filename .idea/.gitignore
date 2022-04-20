@@ -5,4 +5,5 @@
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
+/sonarlint/
 /dataSources.local.xml
