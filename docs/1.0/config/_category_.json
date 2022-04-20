@@ -1,0 +1,9 @@
+{
+  "position": 2,
+  "label": "Configuration",
+  "collapsible": true,
+  "collapsed": false,
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}
