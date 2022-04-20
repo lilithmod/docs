@@ -45,6 +45,11 @@ async function createConfig() {
         themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
             ({
+                colorMode: {
+                    defaultMode: 'dark',
+                    disableSwitch: false,
+                    respectPrefersColorScheme: false
+                },
                 navbar: {
                     title: '',
                     logo: {
@@ -57,6 +62,11 @@ async function createConfig() {
                             docId: 'setup/index',
                             position: 'left',
                             label: 'Getting Started',
+                        },
+                        {
+                            to: '/downloads',
+                            position: 'left',
+                            label: 'Downloads',
                         },
                         {to: '/blog', label: 'Blog', position: 'left'},
                         {

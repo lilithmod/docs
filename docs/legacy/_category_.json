@@ -1,8 +1,8 @@
 {
-  "position": 1,
-  "label": "Setup",
+  "position": 10,
+  "label": "Legacy",
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "customProps": {
     "description": "This description can be used in the swizzled DocCard"
   }
