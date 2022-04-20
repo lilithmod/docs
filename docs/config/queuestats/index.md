@@ -8,7 +8,7 @@ title: Queuestats Configuration
 
 :::caution
 
-To reload your changed config in-game, use the command `/lreload`
+Change your config at https://me.lilithmod.xyz. To reload your changed config in-game, use the command `/lreload`
 
 :::
 

@@ -68,6 +68,11 @@ async function createConfig() {
                             position: 'left',
                             label: 'Downloads',
                         },
+                        {
+                            href: 'https://me.lilithmod.xyz',
+                            position: 'left',
+                            label: 'Config',
+                        },
                         {to: '/blog', label: 'Blog', position: 'left'},
                         {
                             href: 'https://discord.gg/lilith',

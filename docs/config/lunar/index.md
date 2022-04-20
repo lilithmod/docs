@@ -8,7 +8,7 @@ title: Lunar Configuration
 
 :::caution
 
-To reload your changed config in-game, use the command `/lreload`. Lunar Spoof will not reload until you restart Lilith (which reloads your config anyway).
+Change your config at https://me.lilithmod.xyz. To reload your changed config in-game, use the command `/lreload`. Lunar Spoof will not reload until you restart Lilith (which reloads your config anyway).
 
 :::
 
