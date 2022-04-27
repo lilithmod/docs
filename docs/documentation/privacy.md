@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 sidebar_label: Privacy
-title: Privacy
+title: Privacy Policy
 ---
 
 ### Accessible to Everyone:

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Statchecking
-title: Statchecking
+title: Statchecking Commands
 ---
 
 ---
