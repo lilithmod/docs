@@ -133,7 +133,7 @@ async function createConfig() {
                                     href: 'https://me.lilithmod.xyz',
                                 },
                                 {
-                                    label: 'Privacy',
+                                    label: 'Privacy Policy',
                                     to: '/docs/documentation/privacy',
                                 },
                                 {
