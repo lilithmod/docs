@@ -58,9 +58,9 @@ async function createConfig() {
                     },
                     items: [
                         {
-                            type: 'doc',
-                            docId: 'setup/index',
+                            type: 'docSidebar',
                             position: 'left',
+                            sidebarId: 'gettingstarted',
                             label: 'Getting Started',
                         },
                         {
@@ -68,10 +68,16 @@ async function createConfig() {
                             position: 'left',
                             label: 'Downloads',
                         },
+                        {
+                            type: 'docSidebar',
+                            position: 'left',
+                            sidebarId: 'documentation',
+                            label: 'Documentation',
+                        },
                         {to: '/blog', label: 'Blog', position: 'left'},
                         {
                             href: 'https://me.lilithmod.xyz',
-                            position: 'left',
+                            position: 'right',
                             label: 'Config',
                         },
                         {
