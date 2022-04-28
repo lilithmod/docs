@@ -5,9 +5,21 @@ title: Frequently Asked Questions
 ---
 
 <details>
+    <summary>How can I apply for a Lilith license</summary>
+
+- You can apply for a free license in the #apply-here channel in the discord server. Your application will redirect you to a ticket with the appliction prompt within it. 
+- To apply, just respond to the prompt to the best of your ability honestly and truthfully. Just be patient, and a member of our application team will process your application.
+- Note: Pinging or dming staff members regarding your application WILL NOT speed up its processing and will only get you denied.
+
+</details>
+
+<br/>
+
+
+<details>
     <summary>Why can't I see anything in the Discord?</summary>
 
-You probably need to apply using the button in #apply-here.
+- You probably haven't applied for Lilith access using the button in #apply-here channel in the Lilith Discord
 
 </details>
 
@@ -16,7 +28,7 @@ You probably need to apply using the button in #apply-here.
 <details>
 <summary>How do I install Lilith?</summary>
 
-See <a href="/docs/setup">the Setup guide</a>.
+- See <a href="/docs/gettingstarted/setup">the Setup guide</a>.
 
 </details>
 
@@ -25,7 +37,7 @@ See <a href="/docs/setup">the Setup guide</a>.
 <details>
     <summary>How do I get support?</summary>
 
-Please ask in the #support channel of the Discord server.
+- Please <a href="/docs/documentation/features/support">click here</a> for more info about support.
 
 </details>
 
@@ -34,7 +46,7 @@ Please ask in the #support channel of the Discord server.
 <details>
     <summary>What clients does Lilith support?</summary>
 
-Lilith supports any 1.8.9 client. Any of them.
+- Lilith supports any 1.8.9 client. All of them.
 
 </details>
 
@@ -43,7 +55,7 @@ Lilith supports any 1.8.9 client. Any of them.
 <details>
     <summary>Why is connecting to localhost required?</summary>
 
-Lilith works by using a lightweight proxy server to intercept packets and add features on top of any client.
+- Lilith works by using a lightweight proxy server to intercept packets and add features on top of any client.
 
 </details>
 
@@ -52,9 +64,9 @@ Lilith works by using a lightweight proxy server to intercept packets and add fe
 <details>
     <summary>Why does Lilith need me to sign into Microsoft, and why does it say Minecraft for Nintendo Switch?</summary>
 
-Lilith's proxy system requires the ability to sign into Hypixel as you in order to intercept packets. Nintendo Switch is used as a workaround
-in order to support underage accounts.
-Cached account information is kept on-device and uses <a href="https://github.com/PrismarineJS/prismarine-auth">PrismarineJS/prismarine-auth</a>.
+- Lilith's proxy system requires the ability to sign into Hypixel as you in order to intercept packets. 
+Nintendo Switch is used as a workaround in order to support underage accounts.
+- Cached account information is kept on-device and uses <a href="https://github.com/PrismarineJS/prismarine-auth">PrismarineJS/prismarine-auth</a>.
 
 </details>
 
@@ -63,7 +75,7 @@ Cached account information is kept on-device and uses <a href="https://github.co
 <details>
     <summary>Is Lilith bannable?</summary>
 
-Lilith is currently only bannable in Bridge scrims. While Lilith has several bannable features, none of them are detectable serverside.
+- Lilith is currently only bannable in Bridge scrims. While Lilith has several bannable features, none of them are detectable serverside.
 
 </details>
 
@@ -72,7 +84,7 @@ Lilith is currently only bannable in Bridge scrims. While Lilith has several ban
 <details>
     <summary>Why isn't Lilith open source?</summary>
 
-For various reasons involving the for-profit nature of the project and the need to keep exploits hidden.
+- For various reasons involving the for-profit nature of the project and the need to keep exploits hidden.
 
 </details>
 
@@ -81,7 +93,7 @@ For various reasons involving the for-profit nature of the project and the need 
 <details>
     <summary>How do I report bugs?</summary>
 
-Create a Discord ticket.
+- Please <a href="/docs/documentation/features/support">click here</a> for more info on reporting bugs.
 
 </details>
 
@@ -90,7 +102,7 @@ Create a Discord ticket.
 <details>
     <summary>Where can I suggest new features?</summary>
 
-Use /suggest in the Discord server.
+- Use /suggest in the <a href="https://discord.gg/lilith">Discord server.</a>
 
 </details>
 
