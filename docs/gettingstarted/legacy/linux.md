@@ -4,6 +4,13 @@ sidebar_label: Linux
 title: Linux Setup
 ---
 
+<!--- Authors --->
+<h4>
+
+  Written by Nea
+
+</h4>
+
 ---
 
 ## Install Lilith in the proper location
