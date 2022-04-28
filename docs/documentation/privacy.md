@@ -26,5 +26,5 @@ title: Privacy Policy
 <br/>
 
 :::tip
-You can see through the usage of Wireshark that no private information like your account credentials are ever external server by Lilith, except to the official Mojang servers for login.
+You can see through the usage of Wireshark that no private information like your account credentials are ever communicated to an external server by Lilith, except to the official Mojang servers for login.
 :::

@@ -107,3 +107,13 @@ Nintendo Switch is used as a workaround in order to support underage accounts.
 </details>
 
 <br/>
+
+<details>
+    <summary>How do I partner with Lilith?</summary>
+
+- If you have a decent following on a social media platform like Youtube, Twitch, etc, or own a discord server that aligns with Lilith 
+(like a forge modding server) please contact someone on our public relations team, developer, or administrator to discuss further in our <a href="https://discord.gg/lilith">discord server.</a>
+
+</details>
+
+<br/>
