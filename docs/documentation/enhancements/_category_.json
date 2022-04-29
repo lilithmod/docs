@@ -1,8 +1,8 @@
 {
-    "position": 8,
+    "position": 2,
     "label": "Enhancements",
     "collapsible": true,
-    "collapsed": true,
+    "collapsed": false,
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
     }

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: Lunar Client QT
 title: Migrating to LCQT Bypasses
 ---

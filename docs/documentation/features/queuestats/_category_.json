@@ -1,6 +1,6 @@
 {
-    "position": 4,
-    "label": "Bypasses",
+    "position": 1,
+    "label": "Queuestats",
     "collapsible": true,
     "collapsed": true,
     "customProps": {
