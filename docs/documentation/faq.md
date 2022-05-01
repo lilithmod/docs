@@ -35,6 +35,15 @@ title: Frequently Asked Questions
 <br/>
 
 <details>
+    <summary>I'm getting an error; how do I fix it?</summary>
+
+- Please <a href="/docs/documentation/troubleshooting">click here</a> for more info about troubleshooting.
+
+</details>
+
+<br/>
+
+<details>
     <summary>How do I get support?</summary>
 
 - Please <a href="/docs/documentation/features/support">click here</a> for more info about support.

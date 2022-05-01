@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Enable Hypixel Mods
+sidebar_label: Hypixel Mods
 title: Enabling Hypixel Mods
 ---
 
@@ -19,7 +19,7 @@ you should see the Notepad app pop up as an option. **DO NOT** open it yet.
 You'll be asked if you want to "allow this app to make changes to your device?". Click Yes.
 4. Now that you are running Notepad as an admin, in the top right of the window click File then Open.
 5. In file explorer that just popped up, navigate to `C:` -> `Windows` -> `System32` -> `drivers` -> `etc`. This folder may appear blank at first. To show all files, click the dropdown box in the bottom-right of file explorer titled `Text Documents .txt`, then select `All Files`.
-6. **Double-Click** on hosts to open it. 
+6. **Double-Click** on hosts to open it. If there is no hosts file, you can just create a file in the folder called `hosts`.
 
 ## Modifying the Hosts File
 7. You may see several lines starting with `#`. 
