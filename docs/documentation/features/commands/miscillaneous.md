@@ -14,6 +14,14 @@ Requeues your current or last gamemode.
 
 :::
 
+:::info Command: /autododge
+
+`/autododge [gamemode]`
+
+Toggles autododge.
+
+:::
+
 :::info Command: /lconfig
 
 `/lconfig`
