@@ -1,6 +1,6 @@
 {
-    "position": 4,
-    "label": "Bypasses",
+    "position": 2,
+    "label": "Autododge",
     "collapsible": true,
     "collapsed": true,
     "customProps": {

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 sidebar_label: FAQ
 title: Frequently Asked Questions
 ---
@@ -29,6 +29,15 @@ title: Frequently Asked Questions
 <summary>How do I install Lilith?</summary>
 
 - See <a href="/docs/gettingstarted/setup">the Setup guide</a>.
+
+</details>
+
+<br/>
+
+<details>
+    <summary>I'm getting an error; how do I fix it?</summary>
+
+- Please <a href="/docs/documentation/troubleshooting">click here</a> for more info about troubleshooting.
 
 </details>
 

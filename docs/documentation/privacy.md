@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 sidebar_label: Privacy
 title: Privacy Policy
 ---
@@ -26,5 +26,5 @@ title: Privacy Policy
 <br/>
 
 :::tip
-You can see through the usage of Wireshark that no private information like your account credentials are ever communicated to an external server by Lilith, except to the official Mojang servers for login.
+You can see through the usage of Wireshark that no private information, like your account credentials, is ever communicated to an external server by Lilith, except to the official Mojang servers for login.
 :::
