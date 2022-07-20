@@ -113,15 +113,15 @@ async function createConfig() {
                             ],
                         },
                         {
-                            title: 'Community',
+                            title: 'Contact Us',
                             items: [
                                 {
                                     label: 'Discord',
                                     href: 'https://discord.gg/lilith',
                                 },
                                 {
-                                    label: 'GitHub',
-                                    href: 'https://github.com/lilithmod',
+                                    label: 'lilithmod.xyz@gmail.com',
+                                    href: 'mailto:lilithmodxyz@gmail.com',
                                 },
                             ],
                         },
@@ -131,6 +131,10 @@ async function createConfig() {
                                 {
                                     label: 'Config',
                                     href: 'https://me.lilithmod.xyz',
+                                },
+                                {
+                                    label: 'GitHub',
+                                    href: 'https://github.com/lilithmod',
                                 },
                                 {
                                     label: 'Privacy Policy',
